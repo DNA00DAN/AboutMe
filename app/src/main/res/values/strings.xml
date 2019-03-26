@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Danie van der Bank</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">HELLO
+        \nHELLO
+        \nHELLO
+        \nHELLO
+        \nHELLO
+        \nHELLO
+        \nHELLO
+        \nHELLO\n
+    </string>
+    <string name="what_is_your_name">What is your Name?</string>
+    <string name="done">Done</string>
+</resources>
